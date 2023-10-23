@@ -1,8 +1,5 @@
 # Learning management system using django web framework
 
-### I would love to see you contribute 👩‍💻👩‍💻, feel free to contribute and get awesome GitHub achievements :)
-### Demo video: https://youtu.be/KKIeRXwZ-Sw
-### Setup video: https://youtu.be/gMJfENDEyUs
 
 ![dj-lms-dashboard](https://user-images.githubusercontent.com/60693922/212262964-5b5f2cb9-59b6-4be8-bf29-63a5265a7a9e.png)
 
@@ -74,22 +71,5 @@ Last but not least, go to this address http://127.0.0.1:8000
 
 ### References
 - Quiz part: https://github.com/tomwalker/django_quiz
-
-# Connect with me
-
-<div>
-<a href="https://www.linkedin.com/in/adilmohak" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/adilmohak" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/12872688/adil-mohak" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/adilmohak1" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-</div>
 
 ### Show your support by ⭐️ this project!
