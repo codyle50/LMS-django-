@@ -69,7 +69,3 @@ STRIPE_PUBLISHABLE_KEY=LEAVE_THIS_BLANK_FOR_NOW
 
 Last but not least, go to this address http://127.0.0.1:8000
 
-### References
-- Quiz part: https://github.com/tomwalker/django_quiz
-
-### Show your support by ⭐️ this project!
